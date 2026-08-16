@@ -1,0 +1,15 @@
+title: "Anuj's Cloud & Platform Notes"
+description: "Ideas, patterns, and lessons on Cloud, Platform Engineering, and DevOps — written as I learn them."
+theme: minima
+markdown: kramdown
+url: "https://blog.akoli.dev"
+
+minima:
+  skin: dark
+
+exclude:
+  - README.md
+  - POST_TEMPLATE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
