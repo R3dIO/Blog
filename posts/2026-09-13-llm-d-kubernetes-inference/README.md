@@ -51,11 +51,11 @@ If your team is looking at GPU spend on inference and wondering where it's actua
 
 Sources:
 - [Announcing the llm-d community](https://llm-d.ai/blog/llm-d-announce)
-- [Enhancing vLLM for distributed inference with llm-d | Google Cloud Blog](https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d)
-- [llm-d: Kubernetes-native distributed inferencing | Red Hat Developer](https://developers.redhat.com/articles/2025/05/20/llm-d-kubernetes-native-distributed-inferencing)
-- [Welcome llm-d to the CNCF: Evolving Kubernetes into SOTA AI infrastructure | CNCF](https://www.cncf.io/blog/2026/03/24/welcome-llm-d-to-the-cncf-evolving-kubernetes-into-sota-ai-infrastructure/)
-- [llm-d officially a CNCF Sandbox project | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/llm-d-officially-a-cncf-sandbox-project)
-- [Best of Both Worlds: Cloud-Native AI Inference at Scale using KServe and llm-d | KServe](https://kserve.github.io/website/blog/cloud-native-ai-inference-kserve-llm-d)
-- [Combining KServe and llm-d for optimized generative AI inference | Red Hat Developer](https://developers.redhat.com/articles/2026/04/21/kserve-llm-d-optimized-gen-ai-inference)
-- [Understanding LLMInferenceService | KServe](https://kserve.github.io/website/docs/model-serving/generative-inference/llmisvc/llmisvc-overview)
+- [Enhancing vLLM for distributed inference with llm-d](https://cloud.google.com/blog/products/ai-machine-learning/enhancing-vllm-for-distributed-inference-with-llm-d) — Google Cloud Blog
+- [llm-d: Kubernetes-native distributed inferencing](https://developers.redhat.com/articles/2025/05/20/llm-d-kubernetes-native-distributed-inferencing) — Red Hat Developer
+- [Welcome llm-d to the CNCF: Evolving Kubernetes into SOTA AI infrastructure](https://www.cncf.io/blog/2026/03/24/welcome-llm-d-to-the-cncf-evolving-kubernetes-into-sota-ai-infrastructure/) — CNCF
+- [llm-d officially a CNCF Sandbox project](https://cloud.google.com/blog/products/containers-kubernetes/llm-d-officially-a-cncf-sandbox-project) — Google Cloud Blog
+- [Best of Both Worlds: Cloud-Native AI Inference at Scale using KServe and llm-d](https://kserve.github.io/website/blog/cloud-native-ai-inference-kserve-llm-d) — KServe
+- [Combining KServe and llm-d for optimized generative AI inference](https://developers.redhat.com/articles/2026/04/21/kserve-llm-d-optimized-gen-ai-inference) — Red Hat Developer
+- [Understanding LLMInferenceService](https://kserve.github.io/website/docs/model-serving/generative-inference/llmisvc/llmisvc-overview) — KServe
 - [LinkedIn Skills on the Rise 2026](https://news.linkedin.com/2026/Skills-on-the-rise-2026)
