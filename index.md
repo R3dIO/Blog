@@ -7,6 +7,7 @@ title: Home
 
   <h1 class="page-heading">{{ site.title }}</h1>
   <p>{{ site.description }}</p>
+  <p class="author-byline">Written by <a href="https://akoli.dev">Anuj Koli</a></p>
 
   <h2>Latest posts</h2>
 
