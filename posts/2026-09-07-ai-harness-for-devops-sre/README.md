@@ -74,9 +74,9 @@ If your team is figuring out how to roll agentic tooling into infrastructure wor
 Sources:
 - [A Comparison of AI Agent Harnesses in 2026](https://winder.ai/ai-agent-harness-comparison/)
 - [Google Antigravity Docs](https://antigravity.google/docs/home/)
-- [Google launches Antigravity 2.0 with an updated desktop app and CLI tool at I/O 2026 | TechCrunch](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/)
+- [Google launches Antigravity 2.0 with an updated desktop app and CLI tool at I/O 2026](https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/) — TechCrunch
 - [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
 - [AGENTS.md Spec Guide](https://www.morphllm.com/agents-md-guide)
-- [AI and job postings: from destruction to creation | Indeed Hiring Lab](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/)
+- [AI and job postings: from destruction to creation](https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/) — Indeed Hiring Lab
 - [LinkedIn Jobs on the Rise 2026](https://www.dice.com/career-advice/ai-related-jobs-top-linkedins-fastest-growing-roles-list-for-2026)
 - [LinkedIn Skills on the Rise 2026](https://news.linkedin.com/2026/Skills-on-the-rise-2026)

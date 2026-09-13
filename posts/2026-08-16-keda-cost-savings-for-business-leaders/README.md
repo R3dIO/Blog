@@ -30,5 +30,5 @@ KEDA doesn't ask a company to rip out its existing systems or make a leap of fai
 If your team is weighing whether something like this is worth the investment — or you're hiring for a role where this kind of thinking matters — I'm always happy to talk through it in plain terms, no jargon required. Reach out any time.
 
 Sources:
-- [KEDA | CNCF](https://www.cncf.io/projects/keda/)
+- [KEDA](https://www.cncf.io/projects/keda/) — CNCF
 - [KEDA is graduating to CNCF Graduated project](https://keda.sh/blog/2023-08-22-keda-cncf-graduation/)
